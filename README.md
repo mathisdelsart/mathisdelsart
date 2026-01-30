@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer&descSize=20&descAlignY=55" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mathisdelsart">
+  <a href="https://www.linkedin.com/in/mathis-delsart-1b225b383/">
     <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=e05080" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mathis.delsart@student.uclouvain.be">
+  <a href="mailto:mathis.delsart@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d0208?style=for-the-badge&logo=gmail&logoColor=e05080" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mathisdelsart&color=4a0d2b&style=for-the-badge&label=VISITORS" alt="Profile views"/>
