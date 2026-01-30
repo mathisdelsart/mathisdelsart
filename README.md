@@ -19,12 +19,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="About" width="28" /> About Me
 
 <div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_mathis.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Stack
 
@@ -90,7 +90,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Projects" width="28" /> Featured Projects
 
@@ -144,7 +144,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> GitHub Stats
 
@@ -154,7 +154,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
 <p align="center">
   <b>Open to opportunities in ML Engineering, AI Research, and Systems Development.</b>
