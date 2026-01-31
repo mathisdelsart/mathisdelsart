@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathis-delsart-1b225b383/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=e05080" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=e05080" alt="LinkedIn" />
   </a>
   <a href="mailto:mathis.delsart@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d0208?style=for-the-badge&logo=gmail&logoColor=e05080" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mathisdelsart&color=4a0d2b&style=for-the-badge&label=VISITORS" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0d0208?style=for-the-badge&logo=rocket&logoColor=e05080" alt="Open to Opportunities"/>
 </p>
 
 <p align="center">
@@ -131,12 +131,12 @@ June 2026
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**Deep-Satellite-Segmentation**](https://github.com/mathisdelsart/Deep-Satellite-Segmentation) | Satellite image segmentation with supervised & self-supervised learning | ![PyTorch](https://img.shields.io/badge/PyTorch-0d0208?style=flat-square&logo=pytorch&logoColor=e05080) |
-| [**3D-Hand-Gesture-Classification**](https://github.com/mathisdelsart/3D-Hand-Gesture-Classification) | Comparative study: KNN, LSTM, DenseNet, HMM for 3D gesture recognition | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
-| [**GANs-Diffusion-Kernels**](https://github.com/mathisdelsart/GANs-Diffusion-Kernels) | Advanced generative models: GANs, diffusion models, kernel methods | ![PyTorch](https://img.shields.io/badge/PyTorch-0d0208?style=flat-square&logo=pytorch&logoColor=e05080) |
-| [**SmurfML**](https://github.com/mathisdelsart/SmurfML) | Healthcare ML: predicting heart failure risk using clinical data | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![scikit-learn](https://img.shields.io/badge/sklearn-0d0208?style=flat-square&logoColor=e05080) ![PyTorch](https://img.shields.io/badge/PyTorch-0d0208?style=flat-square&logo=pytorch&logoColor=e05080) |
+| [**Deep-Satellite-Segmentation**](https://github.com/mathisdelsart/Deep-Satellite-Segmentation) | Satellite image segmentation with supervised & self-supervised learning | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![PyTorch](https://img.shields.io/badge/PyTorch-0d0208?style=flat-square&logo=pytorch&logoColor=e05080) ![NumPy](https://img.shields.io/badge/NumPy-0d0208?style=flat-square&logo=numpy&logoColor=e05080) ![scikit-learn](https://img.shields.io/badge/sklearn-0d0208?style=flat-square&logo=scikitlearn&logoColor=e05080) |
+| [**3D-Hand-Gesture-Classification**](https://github.com/mathisdelsart/3D-Hand-Gesture-Classification) | Comparative study: KNN, LSTM, DenseNet, HMM for 3D gesture recognition | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0208?style=flat-square&logo=tensorflow&logoColor=e05080) ![NumPy](https://img.shields.io/badge/NumPy-0d0208?style=flat-square&logo=numpy&logoColor=e05080) ![scikit-learn](https://img.shields.io/badge/sklearn-0d0208?style=flat-square&logo=scikitlearn&logoColor=e05080) ![Pandas](https://img.shields.io/badge/Pandas-0d0208?style=flat-square&logo=pandas&logoColor=e05080) |
+| [**GANs-Diffusion-Kernels**](https://github.com/mathisdelsart/GANs-Diffusion-Kernels) | Advanced generative models: GANs, diffusion models, kernel methods | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![PyTorch](https://img.shields.io/badge/PyTorch-0d0208?style=flat-square&logo=pytorch&logoColor=e05080) ![Diffusers](https://img.shields.io/badge/Diffusers-0d0208?style=flat-square&logoColor=e05080) ![Transformers](https://img.shields.io/badge/Transformers-0d0208?style=flat-square&logo=huggingface&logoColor=e05080) ![Jupyter](https://img.shields.io/badge/Jupyter-0d0208?style=flat-square&logo=jupyter&logoColor=e05080) |
+| [**SmurfML**](https://github.com/mathisdelsart/SmurfML) | Healthcare ML: predicting heart failure risk using clinical data | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0208?style=flat-square&logo=tensorflow&logoColor=e05080) ![Keras](https://img.shields.io/badge/Keras-0d0208?style=flat-square&logo=keras&logoColor=e05080) ![scikit-learn](https://img.shields.io/badge/sklearn-0d0208?style=flat-square&logo=scikitlearn&logoColor=e05080) ![Pandas](https://img.shields.io/badge/Pandas-0d0208?style=flat-square&logo=pandas&logoColor=e05080) ![Jupyter](https://img.shields.io/badge/Jupyter-0d0208?style=flat-square&logo=jupyter&logoColor=e05080) |
 | **ML-Classification** | Supervised learning models for medical & biological datasets<br>🔒 *Private - Academic policy* | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
-| [**CelebA-Explorer**](https://github.com/mathisdelsart/CelebA-Explorer) | Interactive face attribute analysis with clustering & dimensionality reduction | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
+| [**CelebA-Explorer**](https://github.com/mathisdelsart/CelebA-Explorer) | Interactive face attribute analysis with clustering & dimensionality reduction | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![Dash](https://img.shields.io/badge/Dash-0d0208?style=flat-square&logo=plotly&logoColor=e05080) ![Plotly](https://img.shields.io/badge/Plotly-0d0208?style=flat-square&logo=plotly&logoColor=e05080) ![scikit-learn](https://img.shields.io/badge/sklearn-0d0208?style=flat-square&logo=scikitlearn&logoColor=e05080) ![Pandas](https://img.shields.io/badge/Pandas-0d0208?style=flat-square&logo=pandas&logoColor=e05080) |
 
 </details>
 
@@ -157,9 +157,9 @@ June 2026
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**SnakesLadders-MDP**](https://github.com/mathisdelsart/SnakesLadders-MDP) | Optimal strategy via Markov Decision Processes & Q-Learning | ![Python](https://img.shields.io/badge/RL-0d0208?style=flat-square&logoColor=e05080) |
-| [**AI-Odyssey**](https://github.com/mathisdelsart/AI-Odyssey) | Search algorithms: uninformed to adversarial game-playing agents | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
-| [**Connect4Zero**](https://github.com/mathisdelsart/Connect4Zero) | Connect 4 with Minimax AI — Can you beat a machine that thinks 4 moves ahead? | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
+| [**SnakesLadders-MDP**](https://github.com/mathisdelsart/SnakesLadders-MDP) | Optimal strategy via Markov Decision Processes & Q-Learning | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![NumPy](https://img.shields.io/badge/NumPy-0d0208?style=flat-square&logo=numpy&logoColor=e05080) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0208?style=flat-square&logoColor=e05080) |
+| [**AI-Odyssey**](https://github.com/mathisdelsart/AI-Odyssey) | Search algorithms: uninformed to adversarial game-playing agents | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![Pygame](https://img.shields.io/badge/Pygame-0d0208?style=flat-square&logoColor=e05080) ![MiniSat](https://img.shields.io/badge/MiniSat-0d0208?style=flat-square&logoColor=e05080) |
+| [**Connect4Zero**](https://github.com/mathisdelsart/Connect4Zero) | Connect 4 with Minimax AI — Can you beat a machine that thinks 4 moves ahead? | ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![Pygame](https://img.shields.io/badge/Pygame-0d0208?style=flat-square&logoColor=e05080) ![NumPy](https://img.shields.io/badge/NumPy-0d0208?style=flat-square&logo=numpy&logoColor=e05080) |
 
 </details>
 
@@ -169,11 +169,11 @@ June 2026
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**LangFlow**](https://github.com/mathisdelsart/LangFlow) | Full compiler: custom language → JVM bytecode | ![Java](https://img.shields.io/badge/Compiler-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) |
+| [**LangFlow**](https://github.com/mathisdelsart/LangFlow) | Full compiler: custom language → JVM bytecode | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) ![Gradle](https://img.shields.io/badge/Gradle-0d0208?style=flat-square&logo=gradle&logoColor=e05080) ![ASM](https://img.shields.io/badge/ASM-0d0208?style=flat-square&logoColor=e05080) ![JUnit](https://img.shields.io/badge/JUnit-0d0208?style=flat-square&logo=junit5&logoColor=e05080) |
 | **ElastiCart** | Scalable microservices e-commerce platform with custom recommendations, smart ranking, and dynamic shopping<br>🔒 *Private Repository for now* | ![Microservices](https://img.shields.io/badge/Microservices-0d0208?style=flat-square&logoColor=e05080) ![Cloud](https://img.shields.io/badge/Cloud-0d0208?style=flat-square&logoColor=e05080) |
-| [**PrologLint**](https://github.com/mathisdelsart/PrologLint) | Prolog-powered static analyzer for Python code detecting 13+ code smells through declarative pattern matching on ASTs | ![Prolog](https://img.shields.io/badge/Prolog-0d0208?style=flat-square&logoColor=e05080) |
-| [**SchemeOOP**](https://github.com/mathisdelsart/SchemeOOP) | Building OOP from scratch in pure Scheme: classes, inheritance, and polymorphism from closures and message passing | ![Scheme](https://img.shields.io/badge/Scheme-0d0208?style=flat-square&logoColor=e05080) |
-| [**JavaCOP**](https://github.com/mathisdelsart/JavaCOP) | Context-Oriented Programming in Java using reflection, dynamic proxies, and bytecode instrumentation with custom profiler agent | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) |
+| [**PrologLint**](https://github.com/mathisdelsart/PrologLint) | Prolog-powered static analyzer for Python code detecting 13+ code smells through declarative pattern matching on ASTs | ![Prolog](https://img.shields.io/badge/Prolog-0d0208?style=flat-square&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-0d0208?style=flat-square&logoColor=e05080) |
+| [**SchemeOOP**](https://github.com/mathisdelsart/SchemeOOP) | Building OOP from scratch in pure Scheme: classes, inheritance, and polymorphism from closures and message passing | ![Scheme](https://img.shields.io/badge/Scheme-0d0208?style=flat-square&logoColor=e05080) ![Racket](https://img.shields.io/badge/Racket-0d0208?style=flat-square&logo=racket&logoColor=e05080) ![R5RS](https://img.shields.io/badge/R5RS-0d0208?style=flat-square&logoColor=e05080) |
+| [**JavaCOP**](https://github.com/mathisdelsart/JavaCOP) | Context-Oriented Programming in Java using reflection, dynamic proxies, and bytecode instrumentation with custom profiler agent | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) ![Javassist](https://img.shields.io/badge/Javassist-0d0208?style=flat-square&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
 
 </details>
 
@@ -183,11 +183,11 @@ June 2026
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**CORDIC-FPGA-Accelerator**](https://github.com/mathisdelsart/CORDIC-FPGA-Accelerator) | High-performance FPGA accelerator integrated with ARM processor | ![VHDL](https://img.shields.io/badge/FPGA-0d0208?style=flat-square&logoColor=e05080) |
+| [**CORDIC-FPGA-Accelerator**](https://github.com/mathisdelsart/CORDIC-FPGA-Accelerator) | High-performance FPGA accelerator integrated with ARM processor | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0d0208?style=flat-square&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![ARM](https://img.shields.io/badge/ARM-0d0208?style=flat-square&logo=arm&logoColor=e05080) ![Quartus](https://img.shields.io/badge/Quartus-0d0208?style=flat-square&logoColor=e05080) |
 | **VectorBlitz** | High-performance HTTP matrix multiplication server on NGINX with progressive optimizations: cache-aware algorithms, SIMD (AVX-512), and CUDA GPU acceleration<br>🔒 *Private Repository for now* | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) ![CUDA](https://img.shields.io/badge/CUDA-0d0208?style=flat-square&logo=nvidia&logoColor=e05080) |
-| [**Multithreaded-Bellman-Ford**](https://github.com/mathisdelsart/Multithreaded-Bellman-Ford) | 6x speedup with POSIX threads on large graphs | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) |
-| [**DynamicMemoryAllocator**](https://github.com/mathisdelsart/DynamicMemoryAllocator) | Custom heap allocator with next-fit & coalescing | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) |
-| [**ConcurrentBench-Sync**](https://github.com/mathisdelsart/ConcurrentBench-Sync) | Performance benchmarking framework for custom synchronization primitives (TS, TTS, BTTS) vs POSIX on Reader-Writer, Dining Philosophers, Producer-Consumer | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) |
+| [**Multithreaded-Bellman-Ford**](https://github.com/mathisdelsart/Multithreaded-Bellman-Ford) | 6x speedup with POSIX threads on large graphs | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) ![POSIX](https://img.shields.io/badge/POSIX-0d0208?style=flat-square&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
+| [**DynamicMemoryAllocator**](https://github.com/mathisdelsart/DynamicMemoryAllocator) | Custom heap allocator with next-fit & coalescing | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) ![Make](https://img.shields.io/badge/Make-0d0208?style=flat-square&logoColor=e05080) |
+| [**ConcurrentBench-Sync**](https://github.com/mathisdelsart/ConcurrentBench-Sync) | Performance benchmarking framework for custom synchronization primitives (TS, TTS, BTTS) vs POSIX on Reader-Writer, Dining Philosophers, Producer-Consumer | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) ![POSIX](https://img.shields.io/badge/POSIX-0d0208?style=flat-square&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0208?style=flat-square&logoColor=e05080) |
 
 </details>
 
@@ -197,9 +197,9 @@ June 2026
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**FEM-Bridge-Simulator**](https://github.com/mathisdelsart/FEM-Bridge-Simulator) | Finite element simulator for bridge structures under static loads, featuring 2D elasticity modeling and animations | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) |
-| [**NP-Optimization**](https://github.com/mathisdelsart/NP-Optimization) | Solving NP-hard problems: exact methods, relaxations, heuristics | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) |
-| [**Algostructs**](https://github.com/mathisdelsart/Algostructs) | Clean and well-tested core data structures and algorithms with performance focus | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) |
+| [**FEM-Bridge-Simulator**](https://github.com/mathisdelsart/FEM-Bridge-Simulator) | Finite element simulator for bridge structures under static loads, featuring 2D elasticity modeling and animations | ![C](https://img.shields.io/badge/C-0d0208?style=flat-square&logo=c&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) ![OpenGL](https://img.shields.io/badge/OpenGL-0d0208?style=flat-square&logo=opengl&logoColor=e05080) ![CMake](https://img.shields.io/badge/CMake-0d0208?style=flat-square&logo=cmake&logoColor=e05080) ![Gmsh](https://img.shields.io/badge/Gmsh-0d0208?style=flat-square&logoColor=e05080) |
+| [**NP-Optimization**](https://github.com/mathisdelsart/NP-Optimization) | Solving NP-hard problems: exact methods, relaxations, heuristics | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) ![Maven](https://img.shields.io/badge/Maven-0d0208?style=flat-square&logo=apachemaven&logoColor=e05080) ![Python](https://img.shields.io/badge/Python-0d0208?style=flat-square&logo=python&logoColor=e05080) |
+| [**Algostructs**](https://github.com/mathisdelsart/Algostructs) | Clean and well-tested core data structures and algorithms with performance focus | ![Java](https://img.shields.io/badge/Java-0d0208?style=flat-square&logo=openjdk&logoColor=e05080) ![Maven](https://img.shields.io/badge/Maven-0d0208?style=flat-square&logo=apachemaven&logoColor=e05080) |
 
 </details>
 
@@ -243,16 +243,6 @@ June 2026
 </td>
 </tr>
 </table>
-
-<p>
-  <a href="https://www.linkedin.com/in/mathis-delsart-1b225b383/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Lets_Connect-0d0208?style=for-the-badge&logo=linkedin&logoColor=e05080" alt="LinkedIn" height="35"/>
-  </a>
-  <a href="mailto:mathis.delsart@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-0d0208?style=for-the-badge&logo=gmail&logoColor=e05080" alt="Email" height="35"/>
-  </a>
-</p>
-
 
 </div>
 
