@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Deep%20Learning%20Engineer%20%7C%20Algorithmic%20Systems%20Builder&descSize=20&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=20&descAlignY=55" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathis-delsart-1b225b383/">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E05080&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+Reinforcement+Learning;Building+intelligent+systems+that+scale+in+production;Systems+Programming+%7C+Compilers+%7C+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E05080&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Deep+Learning+%7C+Computer+Vision+%7C+Reinforcement+Learning;Building+intelligent+systems+that+scale+in+production" alt="Typing SVG" />
 </p>
 
 <br>
@@ -64,11 +64,9 @@
 **Data**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/CouchDB-4a0d2b?style=for-the-badge&logo=apachecouchdb&logoColor=white" />
 </p>
-
-</td>
-<td valign="top" width="33%">
 
 **Tools**
 
@@ -227,10 +225,9 @@ June 2026
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Target" width="20" style="vertical-align: -5px;" /> Target Roles**
 
-- Deep Learning Engineer
-- Research Engineer
-- ML Systems Developer
-- AI Software Engineer
+- AI Engineer
+- ML Engineer
+- GenAI Engineer
 
 </td>
 <td width="50%" valign="top">
