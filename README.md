@@ -1,4 +1,4 @@
-<img width="100%" src="assets/header.gif" alt="Mathis Delsart — AI / ML Engineer" />
+<img width="100%" src="assets/header.png" alt="Mathis Delsart — AI / ML Engineer" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathis-delsart/">
