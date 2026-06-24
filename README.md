@@ -1,6 +1,9 @@
-<img align="right" width="150" src="assets/coding.gif" alt="Coding" />
+<img align="left" width="140" src="assets/coding.gif" alt="Coding" />
+<img align="right" width="140" src="assets/zero_chill_mode.gif" alt="Zero chill mode" />
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=24&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=42" />
+<p align="center">
+<img width="70%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=27&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=48" />
+</p>
 
 <br clear="all" />
 
