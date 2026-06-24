@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E05080&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Generative+AI+%7C+Computer+Vision+%7C+Natural+Language+Processing;Shipping+AI+systems+that+actually+run+in+production" alt="Typing SVG" />
 </p>
 
-<br>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="28" style="vertical-align: -7px;" /> About Me
 
 I recently graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**. I'm looking to join a team as an **AI / ML Engineer**, building AI systems that actually ship to production.
