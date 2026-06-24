@@ -24,7 +24,7 @@ I'm passionate about **Computer Vision**, **Natural Language Processing**, and *
 
 I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
 
-<a href="assets/CV_Delsart_Mathis.pdf"><img align="right" src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
+<a href="assets/CV_Delsart_Mathis.pdf"><img align="right" src="https://img.shields.io/badge/View_My_CV-022c22?style=for-the-badge&logo=googledocs&logoColor=10b981" alt="View My CV"/></a>
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
 
