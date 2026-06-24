@@ -24,20 +24,9 @@ I'm passionate about **Computer Vision**, **Natural Language Processing**, and *
 
 I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
 
-<table width="100%">
-<tr>
-<td>
+<a href="assets/CV_Delsart_Mathis.pdf"><img align="right" src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
-
-</td>
-<td align="right">
-
-<a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
@@ -163,17 +152,16 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 ![Proximal Policy Optimization](https://img.shields.io/badge/Proximal_Policy_Optimization-4a0d2b?style=flat-square)
 ![Self-Play](https://img.shields.io/badge/Self--Play-4a0d2b?style=flat-square)
 ![Behavior Cloning](https://img.shields.io/badge/Behavior_Cloning-4a0d2b?style=flat-square)
+<br>
 ![Reward Shaping](https://img.shields.io/badge/Reward_Shaping-4a0d2b?style=flat-square)
 ![Transformer](https://img.shields.io/badge/Transformer-4a0d2b?style=flat-square)
 ![Game-Theoretic Evaluation](https://img.shields.io/badge/Game--Theoretic_Evaluation-4a0d2b?style=flat-square)
 ![MicroRTS](https://img.shields.io/badge/MicroRTS-4a0d2b?style=flat-square)
 ![Real-Time Strategy](https://img.shields.io/badge/Real--Time_Strategy-4a0d2b?style=flat-square)
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/mathisdelsart/microrts-drl-uecd-website/main/videos/UECD-Best_vs_RAISocketAI_P0.gif" width="45%" alt="UECD-Best vs RAISocketAI" />
-<br>
+
 <sub><b>UECD-Best</b> (ours, top-left) vs RAISocketAI (bottom-right)</sub>
-</p>
 
 📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
 
