@@ -1,5 +1,8 @@
-<img width="80%" align="top" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=28&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=46" />
-<img width="15%" align="top" src="assets/coding.gif" alt="Coding" />
+<img align="right" width="150" src="assets/coding.gif" alt="Coding" />
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=24&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=42" />
+
+<br clear="all" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mathis-delsart/">
