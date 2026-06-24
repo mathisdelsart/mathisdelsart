@@ -24,7 +24,20 @@ I'm passionate about **Computer Vision**, **Natural Language Processing**, and *
 
 I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com). &nbsp;&nbsp; <a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
+<table width="100%">
+<tr>
+<td>
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
+
+</td>
+<td align="right">
+
+<a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
@@ -132,10 +145,6 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mat
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Research" width="28" style="vertical-align: text-top;" /> Research — Master's Thesis
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 **Deep Reinforcement Learning for Competitive Agents in MicroRTS — Architecture, Training, and Tournament Evaluation**
 
 *UCLouvain · Completed June 2026* &nbsp;·&nbsp; *Accepted at IEEE CoG 2026*
@@ -146,16 +155,9 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 - ⚔️ Beats **RAISocketAI** (CoG competition winner) in **65.7%** of head-to-heads
 - ⚡ Trained on just **9.47 GPU-days** — vs the 23.6 reported by RAISocketAI
 
-<br>
-
 [![Live Site](https://img.shields.io/badge/Live_Site-0d0208?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a0d2b)](https://mathisdelsart.github.io/microrts-drl-uecd-website/)
 [![Paper](https://img.shields.io/badge/IEEE_CoG-Paper-0d0208?style=for-the-badge&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
 [![Dissertation](https://img.shields.io/badge/Dissertation-0d0208?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/dissertation/dissertation.pdf)
-
-📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
-
-</td>
-<td width="42%" valign="top" align="center">
 
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep_Reinforcement_Learning-4a0d2b?style=flat-square)
 ![Proximal Policy Optimization](https://img.shields.io/badge/Proximal_Policy_Optimization-4a0d2b?style=flat-square)
@@ -167,15 +169,13 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 ![MicroRTS](https://img.shields.io/badge/MicroRTS-4a0d2b?style=flat-square)
 ![Real-Time Strategy](https://img.shields.io/badge/Real--Time_Strategy-4a0d2b?style=flat-square)
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/mathisdelsart/microrts-drl-uecd-website/main/videos/UECD-Best_vs_RAISocketAI_P0.gif" width="100%" alt="UECD-Best vs RAISocketAI" />
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/mathisdelsart/microrts-drl-uecd-website/main/videos/UECD-Best_vs_RAISocketAI_P0.gif" width="45%" alt="UECD-Best vs RAISocketAI" />
+<br>
 <sub><b>UECD-Best</b> (ours, top-left) vs RAISocketAI (bottom-right)</sub>
+</p>
 
-</td>
-</tr>
-</table>
+📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
