@@ -73,7 +73,7 @@ I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **full
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" /><br>
 <img src="https://cdn.simpleicons.org/apachecouchdb" width="48" height="48" />
-<img src="assets/qdrant.svg" height="48" />
+<img src="assets/logo/qdrant.svg" height="48" />
 </p>
 
 </td>
@@ -85,7 +85,7 @@ I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **full
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,azure,bash,linux&theme=dark" />
-<img src="assets/github-actions.png" width="48" height="48" />
+<img src="assets/logo/github-actions.png" width="48" height="48" />
 </p>
 
 </td>
