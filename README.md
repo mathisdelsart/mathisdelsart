@@ -1,14 +1,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0208,50:4a0d2b,100:0d0208&height=200&section=header&text=Mathis%20Delsart&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20/%20ML%20Engineer&descSize=20&descAlignY=55" />
 
-<p align="center">
+<table width="100%">
+<tr>
+<td align="left">
   <a href="https://www.linkedin.com/in/mathis-delsart/">
     <img src="https://img.shields.io/badge/LinkedIn-0d0208?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2UwNTA4MCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
   </a>
   <a href="mailto:mathis.delsart@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d0208?style=for-the-badge&logo=gmail&logoColor=e05080" alt="Email"/>
   </a>
+</td>
+<td align="right">
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0d0208?style=for-the-badge&logo=rocket&logoColor=e05080" alt="Open to Opportunities"/>
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E05080&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Generative+AI+%7C+Computer+Vision+%7C+Natural+Language+Processing;Shipping+AI+systems+that+actually+run+in+production" alt="Typing SVG" />
@@ -22,9 +28,11 @@ I recently graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechniqu
 
 I'm passionate about **Computer Vision**, **Natural Language Processing**, and **Generative AI** (LLMs, RAG & Agentic AI) — and I enjoy engineering the entire pipeline behind them, from large-scale training on HPC GPU clusters (SLURM) to Docker-containerized deployment on Azure and full-stack delivery.
 
-I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**. Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
+I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
 
-<a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-0d0208?style=for-the-badge&logo=googledocs&logoColor=e05080" alt="View My CV"/></a>
+Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
+
+<a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
@@ -62,7 +70,14 @@ I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **full
 **Web & Backend**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,svelte,ts,tailwind&theme=dark" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/express/white" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/svelte/FF3E00" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" />
 </p>
 
 </td>
@@ -113,7 +128,7 @@ I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **full
 **AI Tooling**
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/githubcopilot/white" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/githubcopilot/black" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/claude" width="48" height="48" />
 </p>
 
@@ -142,7 +157,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 <br>
 
 [![Live Site](https://img.shields.io/badge/Live_Site-0d0208?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a0d2b)](https://mathisdelsart.github.io/microrts-drl-uecd-website/)
-[![Paper](https://img.shields.io/badge/IEEE_CoG-Paper_(PDF)-0d0208?style=for-the-badge&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
+[![Paper](https://img.shields.io/badge/IEEE-Paper-0d0208?style=for-the-badge&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
 [![Dissertation](https://img.shields.io/badge/Dissertation-0d0208?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/dissertation/dissertation.pdf)
 
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep_Reinforcement_Learning-4a0d2b?style=flat-square)
@@ -155,7 +170,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 ![MicroRTS](https://img.shields.io/badge/MicroRTS-4a0d2b?style=flat-square)
 ![Real-Time Strategy](https://img.shields.io/badge/Real--Time_Strategy-4a0d2b?style=flat-square)
 
-> 📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
+📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
 
 </td>
 <td width="42%" valign="top" align="center">
