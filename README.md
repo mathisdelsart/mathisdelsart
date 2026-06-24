@@ -16,7 +16,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="28" style="vertical-align: -7px;" /> About Me
 
-I recently graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**. I'm looking to join a team as an **AI / ML Engineer**, building AI systems that actually ship to production.
+I recently graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**.
+
+I'm looking to join a team as an **AI / ML Engineer**, building AI systems that actually ship to production.
 
 I'm passionate about **Computer Vision**, **Natural Language Processing**, and **Generative AI** (LLMs, RAG & Agentic AI) — and I enjoy engineering the entire pipeline behind them, from large-scale training on HPC GPU clusters (SLURM) to Docker-containerized deployment on Azure and full-stack delivery.
 
