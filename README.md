@@ -24,9 +24,7 @@ I'm passionate about **Computer Vision**, **Natural Language Processing**, and *
 
 I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
-
-<a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
+Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com). &nbsp;&nbsp; <a href="assets/CV_Delsart_Mathis.pdf"><img src="https://img.shields.io/badge/View_My_CV-E8E8E8?style=for-the-badge&logo=googledocs&logoColor=555555" alt="View My CV"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0208,50:4a0d2b,100:0d0208&height=2" width="100%">
 
@@ -140,6 +138,8 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mat
 
 **Deep Reinforcement Learning for Competitive Agents in MicroRTS — Architecture, Training, and Tournament Evaluation**
 
+*UCLouvain · Completed June 2026* &nbsp;·&nbsp; *Accepted at IEEE CoG 2026*
+
 A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** with an **entity-level Transformer** (UECD) and trained end-to-end with a **modular PPO** pipeline on HPC GPU clusters (SLURM) — every design decision individually ablated.
 
 - 🥇 **96.67%** pool win rate — tops a 19-agent tournament (1st on 4 of 5 metrics)
@@ -152,6 +152,11 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 [![Paper](https://img.shields.io/badge/IEEE_CoG-Paper-0d0208?style=for-the-badge&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
 [![Dissertation](https://img.shields.io/badge/Dissertation-0d0208?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=4a0d2b)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/dissertation/dissertation.pdf)
 
+📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
+
+</td>
+<td width="42%" valign="top" align="center">
+
 ![Deep Reinforcement Learning](https://img.shields.io/badge/Deep_Reinforcement_Learning-4a0d2b?style=flat-square)
 ![Proximal Policy Optimization](https://img.shields.io/badge/Proximal_Policy_Optimization-4a0d2b?style=flat-square)
 ![Self-Play](https://img.shields.io/badge/Self--Play-4a0d2b?style=flat-square)
@@ -162,20 +167,11 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 ![MicroRTS](https://img.shields.io/badge/MicroRTS-4a0d2b?style=flat-square)
 ![Real-Time Strategy](https://img.shields.io/badge/Real--Time_Strategy-4a0d2b?style=flat-square)
 
-📂 *[**View the repository →**](https://github.com/mathisdelsart/microrts-drl-uecd)*
-
-</td>
-<td width="42%" valign="top" align="center">
-
-*UCLouvain · Completed June 2026*
-<br>
-*Accepted at IEEE CoG 2026*
-
-<br><br><br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/mathisdelsart/microrts-drl-uecd-website/main/videos/UECD-Best_vs_RAISocketAI_P0.gif" width="100%" alt="UECD-Best vs RAISocketAI" />
 
-<sub><b>UECD-Best</b> (ours, top-left) vs RAISocketAI (CoG competition winner)</sub>
+<sub><b>UECD-Best</b> (ours, top-left) vs RAISocketAI (bottom-right)</sub>
 
 </td>
 </tr>
