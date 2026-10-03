@@ -20,9 +20,9 @@
 
 I'm an **AI Engineer** at **[Faktion](https://www.faktion.com)** (Antwerp), building LLM-based and agentic AI solutions for enterprise clients, from prototype to production on **Azure**.
 
-I graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**. My master's thesis on deep reinforcement learning was presented at **IEEE CoG 2026** and won **2nd place** at the **IEEE/ICTEAM Best Master Thesis Award 2026**.
+I graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **M.Sc. in Computer Science & Engineering**, specializing in **Artificial Intelligence**. My master's thesis on deep reinforcement learning was presented at **IEEE CoG 2026** and won **2nd place** at the **IEEE/ICTEAM Best Master Thesis Award 2026**.
 
-I'm passionate about **Generative AI** (LLMs, RAG & Agentic AI), **Computer Vision** and **NLP**, and I enjoy engineering the entire pipeline behind them, from large-scale training on HPC GPU clusters (SLURM) to Docker-containerized deployment on Azure and full-stack delivery.
+I'm passionate about **Generative AI**, **Agentic AI**, **Machine Learning** and **Computer Science** as a whole. What I enjoy most is building the entire pipeline end to end, from the agentic core to full-stack delivery, and seeing the result come to life in production.
 
 Happy to connect about applied AI, agents in production and AI research: [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
 
@@ -297,7 +297,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" style="vertical-align: -5px;" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mathisdelsart&show_icons=true&hide_border=false&border_color=10b981&bg_color=ffffff&title_color=059669&text_color=334155&icon_color=059669&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathisdelsart&show_icons=true&hide_border=false&border_color=10b981&bg_color=ffffff&title_color=059669&text_color=334155&icon_color=059669&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
