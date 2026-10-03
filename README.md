@@ -324,5 +324,5 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisdelsart&theme=github_dark" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisdelsart&theme=dark" alt="Profile Summary" width="100%" />
 </p>
