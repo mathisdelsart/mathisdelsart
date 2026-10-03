@@ -67,7 +67,6 @@ Happy to connect about applied AI, agents in production and AI research: [Linked
 <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/express/10b981" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/svelte/FF3E00" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" />
 </p>
@@ -101,7 +100,7 @@ Happy to connect about applied AI, agents in production and AI research: [Linked
 **Systems & Embedded**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java&theme=dark" />
 <img src="https://api.iconify.design/vscode-icons/file-type-systemverilog.svg" width="48" height="48" />
 </p>
 
@@ -117,11 +116,11 @@ Happy to connect about applied AI, agents in production and AI research: [Linked
 </td>
 <td valign="top" width="25%">
 
-**AI Tooling**
+**LLM Platforms**
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/githubcopilot/black" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/claude" width="48" height="48" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg/icons/azureai-color.svg" width="48" height="48" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg/icons/openai.svg" width="48" height="48" />
 </p>
 
 </td>
@@ -130,15 +129,15 @@ Happy to connect about applied AI, agents in production and AI research: [Linked
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,50:047857,100:059669&height=2" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Research" width="28" style="vertical-align: text-top;" /> Research — Master's Thesis
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Research" width="28" style="vertical-align: text-top;" /> Research: Master's Thesis
 
-**Deep Reinforcement Learning for Competitive Agents in MicroRTS — Architecture, Training, and Tournament Evaluation**
+**Deep Reinforcement Learning for Competitive Agents in MicroRTS: Architecture, Training, and Tournament Evaluation**
 
 *UCLouvain · June 2026* &nbsp;·&nbsp; *Presented at IEEE CoG 2026 (Madrid)* &nbsp;·&nbsp; 🥈 *2nd place, IEEE/ICTEAM Best Master Thesis Award 2026*
 
-A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** with an **entity-level Transformer** (UECD) and trained end-to-end with a **modular PPO** pipeline on HPC GPU clusters (SLURM) — every design decision individually ablated.
+A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** with an **entity-level Transformer** (UECD) and trained end-to-end with a **modular PPO** pipeline on HPC GPU clusters (SLURM), with every design decision individually ablated.
 
-- 🥇 **96.67%** pool win rate — tops a 19-agent tournament (1st on 4 of 5 metrics)
+- 🥇 **96.67%** pool win rate, topping a 19-agent tournament (1st on 4 of 5 metrics)
 - ⚔️ **9-1** head-to-head record against **RAISocketAI** (prior MicroRTS competition winner)
 - ⚡ Trained on just **9.4 GPU-days**, roughly **7× less compute**
 
@@ -165,7 +164,43 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,50:047857,100:059669&height=2" width="100%">
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Publications" width="28" style="vertical-align: -5px;" /> Publications
+
+**Combining Spatial and Entity-Based Reasoning for Competitive MicroRTS via U-Net and Transformers**
+<br>*Mathis Delsart, Achille Morenville, Éric Piette* &nbsp;·&nbsp; IEEE Conference on Games (CoG) 2026, Madrid
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-059669?style=for-the-badge&labelColor=047857)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@inproceedings{delsart2026uecd,
+  title     = {Combining Spatial and Entity-Based Reasoning for Competitive MicroRTS via U-Net and Transformers},
+  author    = {Delsart, Mathis and Morenville, Achille and Piette, {\'E}ric},
+  booktitle = {Proceedings of the IEEE Conference on Games (CoG)},
+  year      = {2026},
+  address   = {Madrid, Spain}
+}
+```
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,50:047857,100:059669&height=2" width="100%">
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Projects" width="28" style="vertical-align: -5px;" /> Featured Projects
+
+<details open>
+<summary><b>Generative AI & LLMs</b></summary>
+<br>
+
+| Project | Repo | Description | Stack |
+|:--------|:----:|:------------|:------|
+| ***Sourcio***: RAG Study Assistant | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/sourcio) | Deployed RAG tutor answering **only** from your own courses, with citation-by-construction (the model never sees a page number) + a three-layer refusal guard. [**Live app**](https://sourcio-tutor.vercel.app): **100%** citations, **96%** refusal accuracy | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-059669?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-059669?style=flat-square&logo=qdrant&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-059669?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-059669?style=flat-square&logo=docker&logoColor=white) |
+| ***NLP-Models*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/nlp-models) | Progressive NLP pipeline: Question Classification (Naive Bayes), Vector Semantics (TF-IDF/PPMI/Word2Vec), BERT-based QA (SQuAD) | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-059669?style=flat-square&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-059669?style=flat-square&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-059669?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-059669?style=flat-square&logo=huggingface&logoColor=white) |
+| ***Text-Prediction-TwitOZ*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/text-prediction-TwitOZ) | Intelligent text prediction system using N-grams algorithm with real-time word suggestions | ![Oz/Mozart](https://img.shields.io/badge/Oz%2FMozart-059669?style=flat-square&logoColor=white) ![N-grams](https://img.shields.io/badge/N--grams-059669?style=flat-square&logoColor=white) |
+
+</details>
 
 <details open>
 <summary><b>Deep Learning & Computer Vision</b></summary>
@@ -183,18 +218,6 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 </details>
 
 <details open>
-<summary><b>Natural Language Processing & LLMs</b></summary>
-<br>
-
-| Project | Repo | Description | Stack |
-|:--------|:----:|:------------|:------|
-| ***Sourcio*** — RAG Study Assistant | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/sourcio) | Deployed RAG tutor answering **only** from your own courses — citation-by-construction (the model never sees a page number) + a three-layer refusal guard. [**Live app**](https://sourcio-tutor.vercel.app): **100%** citations, **96%** refusal accuracy | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-059669?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-059669?style=flat-square&logo=qdrant&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-059669?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-059669?style=flat-square&logo=docker&logoColor=white) |
-| ***NLP-Models*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/nlp-models) | Progressive NLP pipeline: Question Classification (Naive Bayes), Vector Semantics (TF-IDF/PPMI/Word2Vec), BERT-based QA (SQuAD) | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-059669?style=flat-square&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-059669?style=flat-square&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-059669?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-059669?style=flat-square&logo=huggingface&logoColor=white) |
-| ***Text-Prediction-TwitOZ*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/text-prediction-TwitOZ) | Intelligent text prediction system using N-grams algorithm with real-time word suggestions | ![Oz/Mozart](https://img.shields.io/badge/Oz%2FMozart-059669?style=flat-square&logoColor=white) ![N-grams](https://img.shields.io/badge/N--grams-059669?style=flat-square&logoColor=white) |
-
-</details>
-
-<details open>
 <summary><b>Game AI & Reinforcement Learning</b></summary>
 <br>
 
@@ -202,11 +225,11 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 |:--------|:----:|:------------|:------|
 | ***Snakes-Ladders-MDP*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/snakes-ladders-mdp) | Optimal strategy via Markov Decision Processes & Q-Learning | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-059669?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-059669?style=flat-square&logoColor=white) |
 | ***AI-Odyssey*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/ai-odyssey) | Search algorithms: uninformed to adversarial game-playing agents | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-059669?style=flat-square&logoColor=white) ![PyCSP3](https://img.shields.io/badge/PyCSP3-059669?style=flat-square&logoColor=white) ![MiniSat](https://img.shields.io/badge/MiniSat-059669?style=flat-square&logoColor=white) |
-| ***AI-Connect4-Game*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/ai-connect4-game) | Connect 4 with Minimax AI — Can you beat a machine that thinks 4 moves ahead? | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-059669?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-059669?style=flat-square&logo=numpy&logoColor=white) |
+| ***AI-Connect4-Game*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/ai-connect4-game) | Connect 4 with Minimax AI: can you beat a machine that thinks 4 moves ahead? | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-059669?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-059669?style=flat-square&logo=numpy&logoColor=white) |
 
 </details>
 
-<details open>
+<details>
 <summary><b>Data Science & Analytics</b></summary>
 <br>
 
@@ -218,7 +241,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 </details>
 
-<details open>
+<details>
 <summary><b>Systems Programming & Compilers</b></summary>
 <br>
 
@@ -231,7 +254,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 </details>
 
-<details open>
+<details>
 <summary><b>Low-Level Systems & Embedded</b></summary>
 <br>
 
@@ -239,14 +262,14 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 |:--------|:----:|:------------|:------|
 | ***CORDIC-FPGA-Accelerator*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/cordic-fpga-accelerator) | High-performance FPGA accelerator integrated with ARM processor | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-059669?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![ARM](https://img.shields.io/badge/ARM-059669?style=flat-square&logo=arm&logoColor=white) ![Quartus](https://img.shields.io/badge/Quartus-059669?style=flat-square&logoColor=white) |
 | ***High-Performance-Server*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/high-performance-server) | High-performance HTTP matrix multiplication server on NGINX with progressive optimizations: cache-aware algorithms, SIMD (AVX-512), and CUDA GPU acceleration | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-059669?style=flat-square&logo=nginx&logoColor=white) ![AVX-512](https://img.shields.io/badge/AVX--512-059669?style=flat-square&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-059669?style=flat-square&logo=nvidia&logoColor=white) |
-| ***Multithreaded-Bellman-Ford*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/multithreaded-bellman-ford) | Parallel single-source shortest-path (Bellman-Ford) in C, parallelized with a POSIX-thread pool — ~6× faster on large graphs | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-059669?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) |
+| ***Multithreaded-Bellman-Ford*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/multithreaded-bellman-ford) | Parallel single-source shortest-path (Bellman-Ford) in C, parallelized with a POSIX-thread pool, ~6× faster on large graphs | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-059669?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) |
 | ***Dynamic-Memory-Allocator*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/dynamic-memory-allocator) | Custom heap allocator with next-fit & coalescing | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![Make](https://img.shields.io/badge/Make-059669?style=flat-square&logoColor=white) |
 | ***Concurrent-Bench-Sync-Primitives*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/concurrent-bench-sync-primitives) | Performance benchmarking framework for custom synchronization primitives (TS, TTS, BTTS) vs POSIX on Reader-Writer, Dining Philosophers, Producer-Consumer | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-059669?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-059669?style=flat-square&logoColor=white) |
-| ***Tar-Archive-Parser*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/tar-archive-parser) | Lightweight TAR archive parser in C — validation, file operations, symlink resolution | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-059669?style=flat-square&logoColor=white) ![Make](https://img.shields.io/badge/Make-059669?style=flat-square&logoColor=white) |
+| ***Tar-Archive-Parser*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/tar-archive-parser) | Lightweight TAR archive parser in C: validation, file operations, symlink resolution | ![C](https://img.shields.io/badge/C-059669?style=flat-square&logo=c&logoColor=white) ![POSIX](https://img.shields.io/badge/POSIX-059669?style=flat-square&logoColor=white) ![Make](https://img.shields.io/badge/Make-059669?style=flat-square&logoColor=white) |
 
 </details>
 
-<details open>
+<details>
 <summary><b>Numerical Computing & Optimization</b></summary>
 <br>
 
@@ -258,7 +281,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 </details>
 
-<details open>
+<details>
 <summary><b>Web & Mobile Development</b></summary>
 <br>
 
@@ -270,7 +293,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 </details>
 
-<details open>
+<details>
 <summary><b>Games</b></summary>
 <br>
 
@@ -282,7 +305,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 </details>
 
-<details open>
+<details>
 <summary><b>Coursework & Foundations</b></summary>
 <br>
 
