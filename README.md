@@ -7,26 +7,24 @@
   <a href="mailto:mathis.delsart@gmail.com">
     <img src="https://img.shields.io/badge/Email-059669?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-059669?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Opportunities"/>
+  <a href="https://orcid.org/0009-0005-1136-9203">
+    <img src="https://img.shields.io/badge/ORCID-059669?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Generative+AI+%7C+Computer+Vision+%7C+Natural+Language+Processing;Shipping+AI+systems+that+actually+run+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Generative+AI+%7C+Agentic+AI+%7C+Computer+Vision;Shipping+AI+systems+that+actually+run+in+production" alt="Typing SVG" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="28" style="vertical-align: -7px;" /> About Me
 
-I recently graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**.
+I'm an **AI Engineer** at **[Faktion](https://www.faktion.com)** (Antwerp), building LLM-based and agentic AI solutions for enterprise clients, from prototype to production on **Azure**.
 
-I'm looking to join a team as an **AI / ML Engineer**, building AI systems that actually ship to production.
+I graduated **_Summa Cum Laude_** from **UCLouvain (École Polytechnique de Louvain)** with an **MSc in Computer Science & Engineering**, specializing in **Artificial Intelligence**. My master's thesis on deep reinforcement learning was presented at **IEEE CoG 2026** and won **2nd place** at the **IEEE/ICTEAM Best Master Thesis Award 2026**.
 
-I'm passionate about **Computer Vision**, **Natural Language Processing**, and **Generative AI** (LLMs, RAG & Agentic AI) — and I enjoy engineering the entire pipeline behind them, from large-scale training on HPC GPU clusters (SLURM) to Docker-containerized deployment on Azure and full-stack delivery.
+I'm passionate about **Generative AI** (LLMs, RAG & Agentic AI), **Computer Vision** and **NLP**, and I enjoy engineering the entire pipeline behind them, from large-scale training on HPC GPU clusters (SLURM) to Docker-containerized deployment on Azure and full-stack delivery.
 
-I'm open to **AI / ML Engineer** roles in **Belgium** (on-site/hybrid) or **fully remote across the EU**.
-
-<a href="assets/CV_Delsart_Mathis.pdf"><img align="right" src="https://img.shields.io/badge/View_My_CV-059669?style=for-the-badge&logo=googledocs&logoColor=white" alt="View My CV"/></a>
-
-Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
+Happy to connect about applied AI, agents in production and AI research: [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or [mathis.delsart@gmail.com](mailto:mathis.delsart@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:059669,50:047857,100:059669&height=2" width="100%">
 
@@ -136,13 +134,13 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/mathis-delsart/) or at [mat
 
 **Deep Reinforcement Learning for Competitive Agents in MicroRTS — Architecture, Training, and Tournament Evaluation**
 
-*UCLouvain · Completed June 2026* &nbsp;·&nbsp; *Accepted at IEEE CoG 2026*
+*UCLouvain · June 2026* &nbsp;·&nbsp; *Presented at IEEE CoG 2026 (Madrid)* &nbsp;·&nbsp; 🥈 *2nd place, IEEE/ICTEAM Best Master Thesis Award 2026*
 
 A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** with an **entity-level Transformer** (UECD) and trained end-to-end with a **modular PPO** pipeline on HPC GPU clusters (SLURM) — every design decision individually ablated.
 
 - 🥇 **96.67%** pool win rate — tops a 19-agent tournament (1st on 4 of 5 metrics)
-- ⚔️ Beats **RAISocketAI** (CoG competition winner) in **65.7%** of head-to-heads
-- ⚡ Trained on just **9.47 GPU-days** — vs the 23.6 reported by RAISocketAI
+- ⚔️ **9-1** head-to-head record against **RAISocketAI** (prior MicroRTS competition winner)
+- ⚡ Trained on just **9.4 GPU-days**, roughly **7× less compute**
 
 [![Live Site](https://img.shields.io/badge/Live_Site-059669?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=047857)](https://mathisdelsart.github.io/microrts-drl-uecd-website/)
 [![Paper](https://img.shields.io/badge/IEEE_CoG-Paper-059669?style=for-the-badge&labelColor=047857)](https://github.com/mathisdelsart/microrts-drl-uecd/blob/main/cog-2026-paper/cog_paper.pdf)
@@ -190,7 +188,7 @@ A DRL agent for real-time strategy games, fusing a **U-Net spatial encoder** wit
 
 | Project | Repo | Description | Stack |
 |:--------|:----:|:------------|:------|
-| ***Sourcio*** — RAG Study Assistant | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/sourcio) | Deployed RAG tutor answering **only** from your own courses — citation-by-construction (the model never sees a page number) + a three-layer refusal guard. [**Live app**](https://sourcio-tutor.vercel.app): **100%** citations, **94%** refusal accuracy | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-059669?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-059669?style=flat-square&logo=qdrant&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-059669?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-059669?style=flat-square&logo=docker&logoColor=white) |
+| ***Sourcio*** — RAG Study Assistant | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/sourcio) | Deployed RAG tutor answering **only** from your own courses — citation-by-construction (the model never sees a page number) + a three-layer refusal guard. [**Live app**](https://sourcio-tutor.vercel.app): **100%** citations, **96%** refusal accuracy | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-059669?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-059669?style=flat-square&logo=qdrant&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-059669?style=flat-square&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-059669?style=flat-square&logo=docker&logoColor=white) |
 | ***NLP-Models*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/nlp-models) | Progressive NLP pipeline: Question Classification (Naive Bayes), Vector Semantics (TF-IDF/PPMI/Word2Vec), BERT-based QA (SQuAD) | ![Python](https://img.shields.io/badge/Python-059669?style=flat-square&logo=python&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-059669?style=flat-square&logoColor=white) ![Gensim](https://img.shields.io/badge/Gensim-059669?style=flat-square&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-059669?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-059669?style=flat-square&logo=huggingface&logoColor=white) |
 | ***Text-Prediction-TwitOZ*** | [![View](https://img.shields.io/badge/View-059669?style=flat-square&logo=github&logoColor=white)](https://github.com/mathisdelsart/text-prediction-TwitOZ) | Intelligent text prediction system using N-grams algorithm with real-time word suggestions | ![Oz/Mozart](https://img.shields.io/badge/Oz%2FMozart-059669?style=flat-square&logoColor=white) ![N-grams](https://img.shields.io/badge/N--grams-059669?style=flat-square&logoColor=white) |
 
